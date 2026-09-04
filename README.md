@@ -25,4 +25,4 @@ Learning Lua, game dev, and Linux. Building projects to learn and make money.
 ## How to Reach Me
 - Discord: [wonderof_uuu]
 - Email: [Trustdreamy17@gmail.com]
-- Fiverr: [add later when you make one]
+
