@@ -1,0 +1,17 @@
+ok for game 2 im thinking
+we have something like where we the player are a circle or sqaure
+and on the map we have maybe obsticles or enemies we have to dodge
+and maybe power ups or something idk yet im not even that good at coding yet
+so we will see as of right now im learning the basics using love2d
+but once the game starts coming together ill post it to itch.io
+
+
+  ok so new idea if i can find a way to make the camera follow the character or whatever i could turn this into one of those wave survival games
+
+  but that opens up alot cause i wouldnt want it to be balls vs rectangles or sum bullshit i would have to find a way to color then or some shit which love 2d prob has
+
+
+
+
+  lowkey just looked at someone elses love2d lua codes on github and we are thinking way to small their are boundless possibilities with this shit we could make a shooter or hell idk a tank game something we just need to focuz on getting better at lua and brain storming in the mean time
+
